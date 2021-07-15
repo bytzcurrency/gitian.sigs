@@ -1,1 +1,1 @@
-# gitian.sigs
+# Signatures from Gitian Builds
